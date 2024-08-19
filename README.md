@@ -3,7 +3,7 @@
 <h2>👨‍💻 Projects:</h2>
 
 
-  - [Azure SIEM Honeypot W/ Real Traffic](https://github.com/hendo87/Azure-Honeypot-SIEM))
+  - [Azure SIEM Honeypot W/ Real Traffic](https://github.com/hendo87/Azure-Honeypot-SIEM)
   
   - [Nessus Vulnerability Management](https://github.com/hendo87/Nessus-Vulnerability-Management-) 
   
