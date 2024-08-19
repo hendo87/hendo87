@@ -5,10 +5,10 @@
 
   - [Azure SIEM Honeypot W/ Real Traffic](https://github.com/hendo87/Azure-Honeypot-SIEM))
   
-  - [Nessus Vulnerability Management](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
+  - [Nessus Vulnerability Management](https://github.com/hendo87/Nessus-Vulnerability-Management-) 
   
  
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
+  - [Active Directory Bulk User Creation](https://github.com/hendo87/Active-Directory-Home-Lab-With-Bulk-User-Creation)
   
  
 
