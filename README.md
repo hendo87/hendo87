@@ -1,4 +1,4 @@
-<h1>Hello, I'm Roy! <br/><a href="https://www.linkedin.com/in/roy-h-869b92164/">Cybersecurity Professional</a>
+<h1>Hello, I'm Roy! <br/><a href="https://www.linkedin.com/in/roy-h-869b92164/">IT Professional</a>
 
 <h2>👨‍💻 Projects:</h2>
 
